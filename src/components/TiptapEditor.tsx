@@ -103,6 +103,7 @@ const TiptapEditor = ({ note }: Props) => {
                 <kbd className='px-2 py-1.5 text-xs font-semiboldtext-gray-800 bg-gray-100 border border-gray-200 rounded-lg '>
                     Alt + A
                 </kbd>
+                for AI autocomplete
             </span>
 
         </>
